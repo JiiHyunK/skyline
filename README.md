@@ -1,4 +1,4 @@
-paper link: 
-https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/kips/conference/kips2020spring/KIPS_C2020A0188.pdf 
-2020 춘계학술발표대회 장려상
+paper link: <br>
+https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/kips/conference/kips2020spring/KIPS_C2020A0188.pdf  <br>
+2020 춘계학술발표대회 장려상  <br>
               by jihyun kim, sangmin lee(github.com/sangmain), changguen jin 
