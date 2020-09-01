@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[133]:
-
-
 import random
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -15,9 +12,7 @@ from collections import defaultdict
 Skylines =[]
 data_cnt = 25000
 randnum = 200
-# f_cnt=0
-# a_cnt = 1
-# l_cnt =0
+
 def eu(x,y):
     n= x**2 + y**2
     return math.sqrt(n)
@@ -26,7 +21,7 @@ def eu(x,y):
 # In[149]:
 
 
-#저널논문 - fig4 - 음의 상관관계
+#pre-nn 음의 상관관계
 count=0
 data = []
 skyline = []
@@ -144,7 +139,7 @@ plt.show()
 # In[143]:
 
 
-#저널논문 - fig4 - 양의 상관관계
+#pre-nn 양의 상관관계
 count=0
 data = []
 skyline = []
@@ -262,7 +257,7 @@ plt.show()
 # In[131]:
 
 
-#저널논문 - fig4 - 음의 상관관계
+#pre-nn 음의 상관관계
 count=0
 data = []
 skyline = []
@@ -364,7 +359,7 @@ plt.show()
 # In[128]:
 
 
-#저널논문 - fig3 - 표준 분포
+#pre-nn 표준 분포
 #random
 np.random.seed(4)
 distance = np.random.randint(3,randnum,size=data_cnt)
@@ -474,16 +469,3 @@ plt.scatter(skyline[:,0], skyline[:,1], color="red", label="sCandidate")
 # plt.xlim(0, 10) 
 # plt.ylim(0, 10)
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
