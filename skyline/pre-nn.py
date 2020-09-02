@@ -26,7 +26,7 @@ count=0
 data = []
 skyline = []
 unique = []
-f = open('negative-cor-10000000.txt', 'r')
+f = open('negative-cor-100000.txt', 'r')
 lines = f.readlines()
 for line in lines:
     item = line.split(" ")
@@ -144,7 +144,7 @@ count=0
 data = []
 skyline = []
 unique = []
-f = open('positive-cor-10000000.txt', 'r')
+f = open('positive-cor-100000.txt', 'r')
 lines = f.readlines()
 for line in lines:
     item = line.split(" ")
