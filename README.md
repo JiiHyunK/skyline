@@ -4,4 +4,5 @@ https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/kips/confere
      &nbsp;&nbsp;&nbsp;        by jihyun kim, sangmin lee(github.com/sangmain), changguen jin   <br>
 
 
-code include positive, negative correlation (paper experiment shows only uniform distributon)
+<!-- code include positive, negative correlation (paper experiment shows only uniform distributon)
+-->
